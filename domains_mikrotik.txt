@@ -161,6 +161,8 @@
 0.0.0.0 mdsdnr.ru
 0.0.0.0 mer.govdnr.ru
 0.0.0.0 merchant.webmoney.ru
+0.0.0.0 merchant.wmtransfer.com
+0.0.0.0 merlnr.su
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 metrika.yandex.ua
 0.0.0.0 metro.yandex.ru
