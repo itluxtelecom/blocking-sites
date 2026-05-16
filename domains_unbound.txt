@@ -52366,7 +52366,6 @@ local-zone: "aatpgyrmb.com" always_nxdomain
 local-zone: "afd-bjoern-hoecke.de" always_nxdomain
 local-zone: "aladin-kiev.com" always_nxdomain
 local-zone: "alca-mag.net" always_nxdomain
-local-zone: "alca-mag.org" always_nxdomain
 local-zone: "a-lcc.com" always_nxdomain
 local-zone: "alco24.site" always_nxdomain
 local-zone: "alco-elit.online" always_nxdomain
@@ -52385,7 +52384,6 @@ local-zone: "alishop.com.ua" always_nxdomain
 local-zone: "alishop.in.ua" always_nxdomain
 local-zone: "alka-karobcca.net.ua" always_nxdomain
 local-zone: "alka-korobbca.net.ua" always_nxdomain
-local-zone: "alka-lavka.org" always_nxdomain
 local-zone: "alko-space.com.ua" always_nxdomain
 local-zone: "allvin.co" always_nxdomain
 local-zone: "allw1n.com" always_nxdomain
@@ -53155,6 +53153,8 @@ local-zone: "alcobym.store" always_nxdomain
 local-zone: "alco-expert.org" always_nxdomain
 local-zone: "promalco.com" always_nxdomain
 local-zone: "elpak.com.ua" always_nxdomain
+local-zone: "alka-lavka.org" always_nxdomain
+local-zone: "alca-mag.org" always_nxdomain
 local-zone: "bookhaven.com.ua" always_nxdomain
 local-zone: "nikoshop.com.ua" always_nxdomain
 local-zone: "dreambook.com.ua" always_nxdomain
