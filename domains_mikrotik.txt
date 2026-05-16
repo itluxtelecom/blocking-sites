@@ -52366,7 +52366,6 @@
 0.0.0.0 afd-bjoern-hoecke.de
 0.0.0.0 aladin-kiev.com
 0.0.0.0 alca-mag.net
-0.0.0.0 alca-mag.org
 0.0.0.0 a-lcc.com
 0.0.0.0 alco24.site
 0.0.0.0 alco-elit.online
@@ -52385,7 +52384,6 @@
 0.0.0.0 alishop.in.ua
 0.0.0.0 alka-karobcca.net.ua
 0.0.0.0 alka-korobbca.net.ua
-0.0.0.0 alka-lavka.org
 0.0.0.0 alko-space.com.ua
 0.0.0.0 allvin.co
 0.0.0.0 allw1n.com
@@ -53155,7 +53153,6 @@
 0.0.0.0 alco-expert.org
 0.0.0.0 promalco.com
 0.0.0.0 elpak.com.ua
-0.0.0.0 alco-elit.shop
 0.0.0.0 alka-lavka.org
 0.0.0.0 alca-mag.org
 0.0.0.0 bookhaven.com.ua
