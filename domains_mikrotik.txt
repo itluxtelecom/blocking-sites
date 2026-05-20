@@ -53164,3 +53164,5 @@
 0.0.0.0 hab.media
 0.0.0.0 geworld.ge
 0.0.0.0 yunarmy.ru
+0.0.0.0 hotimsk.by
+0.0.0.0 smartpress.by
