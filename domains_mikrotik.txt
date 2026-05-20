@@ -52835,7 +52835,6 @@
 0.0.0.0 anri-pharm.com
 0.0.0.0 apo.com.ua
 0.0.0.0 apparat.online
-0.0.0.0 apteka-ds.com.ua
 0.0.0.0 apteka-plus.com.ua
 0.0.0.0 aufbest.com
 0.0.0.0 aurum-ua.net
@@ -52902,7 +52901,6 @@
 0.0.0.0 el-toro1.com
 0.0.0.0 el-toro-games.com.ua
 0.0.0.0 el-torowin.com
-0.0.0.0 etabletka.ua
 0.0.0.0 ethunlimcasino.com
 0.0.0.0 eurocasino360.com
 0.0.0.0 euro-casino.com.ua
@@ -53102,7 +53100,6 @@
 0.0.0.0 top-match.org
 0.0.0.0 top-match.xyz
 0.0.0.0 toro-win.com
-0.0.0.0 totispharma.com
 0.0.0.0 tvrgomel.by
 0.0.0.0 uacasino.eu.com
 0.0.0.0 ua.melbet-all.com

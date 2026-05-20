@@ -52835,7 +52835,6 @@ local-zone: "allwinukr.com.ua" always_nxdomain
 local-zone: "anri-pharm.com" always_nxdomain
 local-zone: "apo.com.ua" always_nxdomain
 local-zone: "apparat.online" always_nxdomain
-local-zone: "apteka-ds.com.ua" always_nxdomain
 local-zone: "apteka-plus.com.ua" always_nxdomain
 local-zone: "aufbest.com" always_nxdomain
 local-zone: "aurum-ua.net" always_nxdomain
@@ -52902,7 +52901,6 @@ local-zone: "elslots.net.ua" always_nxdomain
 local-zone: "el-toro1.com" always_nxdomain
 local-zone: "el-toro-games.com.ua" always_nxdomain
 local-zone: "el-torowin.com" always_nxdomain
-local-zone: "etabletka.ua" always_nxdomain
 local-zone: "ethunlimcasino.com" always_nxdomain
 local-zone: "eurocasino360.com" always_nxdomain
 local-zone: "euro-casino.com.ua" always_nxdomain
@@ -53102,7 +53100,6 @@ local-zone: "top-match.live" always_nxdomain
 local-zone: "top-match.org" always_nxdomain
 local-zone: "top-match.xyz" always_nxdomain
 local-zone: "toro-win.com" always_nxdomain
-local-zone: "totispharma.com" always_nxdomain
 local-zone: "tvrgomel.by" always_nxdomain
 local-zone: "uacasino.eu.com" always_nxdomain
 local-zone: "ua.melbet-all.com" always_nxdomain
