@@ -53164,3 +53164,5 @@ local-zone: "ellenpont.hu" always_nxdomain
 local-zone: "hab.media" always_nxdomain
 local-zone: "geworld.ge" always_nxdomain
 local-zone: "yunarmy.ru" always_nxdomain
+local-zone: "hotimsk.by" always_nxdomain
+local-zone: "smartpress.by" always_nxdomain
