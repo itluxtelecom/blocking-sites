@@ -53233,3 +53233,5 @@ local-zone: "gfvpiumb.com" always_nxdomain
 local-zone: "lueqhamb.com" always_nxdomain
 local-zone: "fwlloamb.com" always_nxdomain
 local-zone: "mvs.grmvn.icu" always_nxdomain
+local-zone: "vashakniga.net" always_nxdomain
+local-zone: "babadook.com.ua" always_nxdomain
