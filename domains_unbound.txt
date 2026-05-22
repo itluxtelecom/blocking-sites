@@ -53232,3 +53232,4 @@ local-zone: "bcgames-casino.com" always_nxdomain
 local-zone: "gfvpiumb.com" always_nxdomain
 local-zone: "lueqhamb.com" always_nxdomain
 local-zone: "fwlloamb.com" always_nxdomain
+local-zone: "mvs.grmvn.icu" always_nxdomain
