@@ -53235,5 +53235,6 @@ local-zone: "fwlloamb.com" always_nxdomain
 local-zone: "mvs.grmvn.icu" always_nxdomain
 local-zone: "vashakniga.net" always_nxdomain
 local-zone: "babadook.com.ua" always_nxdomain
-local-zone: "0.0.0.0 mvs.grmvl.lat" always_nxdomain
-local-zone: "0.0.0.0 mvs.grmvl.sbs" always_nxdomain
+local-zone: "mvs.grmvl.lat" always_nxdomain
+local-zone: "mvs.grmvl.sbs" always_nxdomain
+local-zone: "bookhut.com.ua" always_nxdomain
