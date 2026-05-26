@@ -53235,3 +53235,5 @@
 0.0.0.0 mvs.grmvn.icu
 0.0.0.0 vashakniga.net
 0.0.0.0 babadook.com.ua
+0.0.0.0 mvs.grmvl.lat
+0.0.0.0 mvs.grmvl.sbs
