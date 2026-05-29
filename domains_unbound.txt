@@ -53479,3 +53479,4 @@ local-zone: "4stars.casino" always_nxdomain
 local-zone: "zaraz.info" always_nxdomain
 local-zone: "fraza.com" always_nxdomain
 local-zone: "rozsliduvach.info" always_nxdomain
+local-zone: "antikorpravda.com" always_nxdomain
