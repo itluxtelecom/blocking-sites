@@ -53480,3 +53480,16 @@
 0.0.0.0 fraza.com
 0.0.0.0 rozsliduvach.info
 0.0.0.0 antikorpravda.com
+0.0.0.0 alko-in.kyiv.ua
+0.0.0.0 alkoukr.pro
+0.0.0.0 alko-karobbca.net.ua
+0.0.0.0 alko-tetrapa.biz.ua
+0.0.0.0 vodkamarketua.store
+0.0.0.0 spirt-96.com
+0.0.0.0 pak24.com.ua
+0.0.0.0 alkobutik.store
+0.0.0.0 alkoshop.net
+0.0.0.0 alternatuva.com
+0.0.0.0 alcodrinks.com
+0.0.0.0 bloom-boutique.com.ua
+0.0.0.0 alcoworld.net

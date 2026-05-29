@@ -53480,3 +53480,16 @@ local-zone: "zaraz.info" always_nxdomain
 local-zone: "fraza.com" always_nxdomain
 local-zone: "rozsliduvach.info" always_nxdomain
 local-zone: "antikorpravda.com" always_nxdomain
+local-zone: "alko-in.kyiv.ua" always_nxdomain
+local-zone: "alkoukr.pro" always_nxdomain
+local-zone: "alko-karobbca.net.ua" always_nxdomain
+local-zone: "alko-tetrapa.biz.ua" always_nxdomain
+local-zone: "vodkamarketua.store" always_nxdomain
+local-zone: "spirt-96.com" always_nxdomain
+local-zone: "pak24.com.ua" always_nxdomain
+local-zone: "alkobutik.store" always_nxdomain
+local-zone: "alkoshop.net" always_nxdomain
+local-zone: "alternatuva.com" always_nxdomain
+local-zone: "alcodrinks.com" always_nxdomain
+local-zone: "bloom-boutique.com.ua" always_nxdomain
+local-zone: "alcoworld.net" always_nxdomain
