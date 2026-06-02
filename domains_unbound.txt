@@ -53493,3 +53493,4 @@ local-zone: "alternatuva.com" always_nxdomain
 local-zone: "alcodrinks.com" always_nxdomain
 local-zone: "bloom-boutique.com.ua" always_nxdomain
 local-zone: "alcoworld.net" always_nxdomain
+local-zone: "dnrnews.ru" always_nxdomain
