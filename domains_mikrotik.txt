@@ -53494,3 +53494,4 @@
 0.0.0.0 bloom-boutique.com.ua
 0.0.0.0 alcoworld.net
 0.0.0.0 dnrnews.ru
+0.0.0.0 rusidea.org
