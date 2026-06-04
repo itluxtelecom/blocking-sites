@@ -53025,7 +53025,6 @@ local-zone: "one-vv8210.com" always_nxdomain
 local-zone: "one-vv8700.com" always_nxdomain
 local-zone: "onisfarm.com" always_nxdomain
 local-zone: "onkologi.com.ua" always_nxdomain
-local-zone: "online-apteka.com.ua" always_nxdomain
 local-zone: "orelgrad.ru" always_nxdomain
 local-zone: "parik24-bet.org" always_nxdomain
 local-zone: "parik-24.ck.ua" always_nxdomain

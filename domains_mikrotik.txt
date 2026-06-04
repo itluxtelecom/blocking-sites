@@ -53025,7 +53025,6 @@
 0.0.0.0 one-vv8700.com
 0.0.0.0 onisfarm.com
 0.0.0.0 onkologi.com.ua
-0.0.0.0 online-apteka.com.ua
 0.0.0.0 orelgrad.ru
 0.0.0.0 parik24-bet.org
 0.0.0.0 parik-24.ck.ua
