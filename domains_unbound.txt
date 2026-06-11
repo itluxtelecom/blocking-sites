@@ -54232,3 +54232,4 @@ local-zone: "tonplayvip.com" always_nxdomain
 local-zone: "top-mach.dn.ua" always_nxdomain
 local-zone: "vodka0mfx.com" always_nxdomain
 local-zone: "win-banda.com" always_nxdomain
+local-zone: "cripo.com.ua" always_nxdomain
