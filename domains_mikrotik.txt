@@ -54462,3 +54462,5 @@
 0.0.0.0 vegas777.dyndns.org
 0.0.0.0 chmp63.all.biz
 0.0.0.0 lavkabooks.all.biz
+0.0.0.0 book-tower.com.ua
+0.0.0.0 epab-book.com.ua

@@ -54462,3 +54462,5 @@ local-zone: "vavada3uge.com" always_nxdomain
 local-zone: "vegas777.dyndns.org" always_nxdomain
 local-zone: "chmp63.all.biz" always_nxdomain
 local-zone: "lavkabooks.all.biz" always_nxdomain
+local-zone: "book-tower.com.ua" always_nxdomain
+local-zone: "epab-book.com.ua" always_nxdomain
