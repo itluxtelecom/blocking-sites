@@ -54464,3 +54464,4 @@ local-zone: "chmp63.all.biz" always_nxdomain
 local-zone: "lavkabooks.all.biz" always_nxdomain
 local-zone: "book-tower.com.ua" always_nxdomain
 local-zone: "epab-book.com.ua" always_nxdomain
+local-zone: "crypsee.com" always_nxdomain
