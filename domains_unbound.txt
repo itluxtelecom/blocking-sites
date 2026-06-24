@@ -54622,3 +54622,4 @@ local-zone: "hardsmoke.life" always_nxdomain
 local-zone: "tabaccosvit.com.ua" always_nxdomain
 local-zone: "tabakevich.io" always_nxdomain
 local-zone: "shopika.com.ua" always_nxdomain
+local-zone: "vatnik.reactor.cc" always_nxdomain

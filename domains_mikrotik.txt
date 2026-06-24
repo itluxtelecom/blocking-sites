@@ -54622,3 +54622,4 @@
 0.0.0.0 tabaccosvit.com.ua
 0.0.0.0 tabakevich.io
 0.0.0.0 shopika.com.ua
+0.0.0.0 vatnik.reactor.cc
