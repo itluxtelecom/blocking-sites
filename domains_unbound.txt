@@ -54997,3 +54997,4 @@ local-zone: "vipway-apx.com" always_nxdomain
 local-zone: "vvvadaa75.com" always_nxdomain
 local-zone: "win-apx.com" always_nxdomain
 local-zone: "www.bestbitcoincasino.com" always_nxdomain
+local-zone: "centrspina.com.ua" always_nxdomain
