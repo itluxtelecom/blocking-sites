@@ -55848,3 +55848,8 @@ local-zone: "ttej-cloud-app.com" always_nxdomain
 local-zone: "vodeko.com.ua" always_nxdomain
 local-zone: "glavk.se" always_nxdomain
 local-zone: "kartoteka.news" always_nxdomain
+local-zone: "kompromat1.online" always_nxdomain
+local-zone: "novosti.cloud" always_nxdomain
+local-zone: "sledst.org" always_nxdomain
+local-zone: "vlasti.io" always_nxdomain
+local-zone: "vlasti.net" always_nxdomain

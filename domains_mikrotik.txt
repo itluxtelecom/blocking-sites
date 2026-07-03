@@ -55848,3 +55848,8 @@
 0.0.0.0 vodeko.com.ua
 0.0.0.0 glavk.se
 0.0.0.0 kartoteka.news
+0.0.0.0 kompromat1.online
+0.0.0.0 novosti.cloud
+0.0.0.0 sledst.org
+0.0.0.0 vlasti.io
+0.0.0.0 vlasti.net
