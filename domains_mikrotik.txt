@@ -55846,3 +55846,5 @@
 0.0.0.0 starlight-princess.xyz
 0.0.0.0 ttej-cloud-app.com
 0.0.0.0 vodeko.com.ua
+0.0.0.0 glavk.se
+0.0.0.0 kartoteka.news

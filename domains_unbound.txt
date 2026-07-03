@@ -55846,3 +55846,5 @@ local-zone: "starlight-princess.life" always_nxdomain
 local-zone: "starlight-princess.xyz" always_nxdomain
 local-zone: "ttej-cloud-app.com" always_nxdomain
 local-zone: "vodeko.com.ua" always_nxdomain
+local-zone: "glavk.se" always_nxdomain
+local-zone: "kartoteka.news" always_nxdomain
