@@ -55853,3 +55853,5 @@ local-zone: "novosti.cloud" always_nxdomain
 local-zone: "sledst.org" always_nxdomain
 local-zone: "vlasti.io" always_nxdomain
 local-zone: "vlasti.net" always_nxdomain
+local-zone: "world-of-wise.com.ua" always_nxdomain
+local-zone: "litteroo.com.ua" always_nxdomain

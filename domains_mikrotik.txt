@@ -55853,3 +55853,5 @@
 0.0.0.0 sledst.org
 0.0.0.0 vlasti.io
 0.0.0.0 vlasti.net
+0.0.0.0 world-of-wise.com.ua
+0.0.0.0 litteroo.com.ua
