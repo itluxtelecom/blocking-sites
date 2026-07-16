@@ -57792,3 +57792,7 @@ local-zone: "stakecom.org" always_nxdomain
 local-zone: "stkmirror.com" always_nxdomain
 local-zone: "top-ma1ch.net" always_nxdomain
 local-zone: "vodka71c2.com" always_nxdomain
+local-zone: "www.czechfreepress.cz" always_nxdomain
+local-zone: "www.e-republika.ch" always_nxdomain
+local-zone: "www.novarepublika.cz" always_nxdomain
+local-zone: "www.cernaskrinka.online" always_nxdomain

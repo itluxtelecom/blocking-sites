@@ -57792,3 +57792,7 @@
 0.0.0.0 stkmirror.com
 0.0.0.0 top-ma1ch.net
 0.0.0.0 vodka71c2.com
+0.0.0.0 www.czechfreepress.cz
+0.0.0.0 www.e-republika.ch
+0.0.0.0 www.novarepublika.cz
+0.0.0.0 www.cernaskrinka.online
