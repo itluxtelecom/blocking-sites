@@ -58269,3 +58269,4 @@ local-zone: "vvvadadtd.com" always_nxdomain
 local-zone: "vvvadahtem.com" always_nxdomain
 local-zone: "vvvadaoa78u.com" always_nxdomain
 local-zone: "staxanov-rl81.gosweb.gosuslugi.ru" always_nxdomain
+local-zone: "manzaroils.com" always_nxdomain
