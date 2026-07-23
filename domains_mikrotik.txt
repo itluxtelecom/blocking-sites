@@ -58929,3 +58929,14 @@
 0.0.0.0 uoe.com.ua
 0.0.0.0 viphouse.com.ua
 0.0.0.0 vip-house.one
+0.0.0.0 luxc-96.net.ua
+0.0.0.0 ru.sprt-966.com.ua
+0.0.0.0 alko-shop-drink.net
+0.0.0.0 budun.shop
+0.0.0.0 alco-vip-drink.com
+0.0.0.0 spirt-optom-ua.shop
+0.0.0.0 moderma.com.ua
+0.0.0.0 pshenichna-sleza-ua.shop
+0.0.0.0 spirt-top.com
+0.0.0.0 konyak-na-rozliv.top
+0.0.0.0 ukrspirtshop.top

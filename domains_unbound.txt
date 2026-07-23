@@ -58929,3 +58929,14 @@ local-zone: "topwin-bet.icu" always_nxdomain
 local-zone: "uoe.com.ua" always_nxdomain
 local-zone: "viphouse.com.ua" always_nxdomain
 local-zone: "vip-house.one" always_nxdomain
+local-zone: "luxc-96.net.ua" always_nxdomain
+local-zone: "ru.sprt-966.com.ua" always_nxdomain
+local-zone: "alko-shop-drink.net" always_nxdomain
+local-zone: "budun.shop" always_nxdomain
+local-zone: "alco-vip-drink.com" always_nxdomain
+local-zone: "spirt-optom-ua.shop" always_nxdomain
+local-zone: "moderma.com.ua" always_nxdomain
+local-zone: "pshenichna-sleza-ua.shop" always_nxdomain
+local-zone: "spirt-top.com" always_nxdomain
+local-zone: "konyak-na-rozliv.top" always_nxdomain
+local-zone: "ukrspirtshop.top" always_nxdomain
