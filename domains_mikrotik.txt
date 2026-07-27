@@ -59492,3 +59492,15 @@
 0.0.0.0 whispering-winds-path.com
 0.0.0.0 yennefer.vodka
 0.0.0.0 zavod.vodka
+0.0.0.0 omertamedia.fr
+0.0.0.0 byoblu.com
+0.0.0.0 www.donbassitalia.it
+0.0.0.0 newsnet.fr
+0.0.0.0 odysee.com/@dnrlnr:4
+0.0.0.0 www.sarareginella.it
+0.0.0.0 lantidiplomatico.it
+0.0.0.0 www.giorgiobianchiphotojournalist.com
+0.0.0.0 news.by
+0.0.0.0 odysee.com/@rt:fd
+0.0.0.0 oroszhirek.com
+0.0.0.0 www.vaseljenska.net

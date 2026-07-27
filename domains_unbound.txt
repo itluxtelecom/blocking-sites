@@ -59492,3 +59492,15 @@ local-zone: "webarena.online" always_nxdomain
 local-zone: "whispering-winds-path.com" always_nxdomain
 local-zone: "yennefer.vodka" always_nxdomain
 local-zone: "zavod.vodka" always_nxdomain
+local-zone: "omertamedia.fr" always_nxdomain
+local-zone: "byoblu.com" always_nxdomain
+local-zone: "www.donbassitalia.it" always_nxdomain
+local-zone: "newsnet.fr" always_nxdomain
+local-zone: "odysee.com/@dnrlnr:4" always_nxdomain
+local-zone: "www.sarareginella.it" always_nxdomain
+local-zone: "lantidiplomatico.it" always_nxdomain
+local-zone: "www.giorgiobianchiphotojournalist.com" always_nxdomain
+local-zone: "news.by" always_nxdomain
+local-zone: "odysee.com/@rt:fd" always_nxdomain
+local-zone: "oroszhirek.com" always_nxdomain
+local-zone: "www.vaseljenska.net" always_nxdomain
