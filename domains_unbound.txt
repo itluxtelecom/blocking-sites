@@ -59996,3 +59996,7 @@ local-zone: "w-rt19198lx.vip" always_nxdomain
 local-zone: "x-92781mt.click" always_nxdomain
 local-zone: "y-rt92725gz.vip" always_nxdomain
 local-zone: "peptides.com.ua" always_nxdomain
+local-zone: "ukrspravki.online" always_nxdomain
+local-zone: "meddovidku.net" always_nxdomain
+local-zone: "medbook.org.ua" always_nxdomain
+local-zone: "med24.click" always_nxdomain

@@ -59996,3 +59996,7 @@
 0.0.0.0 x-92781mt.click
 0.0.0.0 y-rt92725gz.vip
 0.0.0.0 peptides.com.ua
+0.0.0.0 ukrspravki.online
+0.0.0.0 meddovidku.net
+0.0.0.0 medbook.org.ua
+0.0.0.0 med24.click
