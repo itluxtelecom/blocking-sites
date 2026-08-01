@@ -59995,3 +59995,5 @@ local-zone: "warmthsol.com" always_nxdomain
 local-zone: "w-rt19198lx.vip" always_nxdomain
 local-zone: "x-92781mt.click" always_nxdomain
 local-zone: "y-rt92725gz.vip" always_nxdomain
+
+local-zone: "peptides.com.ua" always_nxdomain
