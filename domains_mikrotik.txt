@@ -60000,3 +60000,4 @@
 0.0.0.0 meddovidku.net
 0.0.0.0 medbook.org.ua
 0.0.0.0 med24.click
+0.0.0.0 gur-official.com.ua
