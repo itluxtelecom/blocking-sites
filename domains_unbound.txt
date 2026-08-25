@@ -60001,4 +60001,4 @@ local-zone: "meddovidku.net" always_nxdomain
 local-zone: "medbook.org.ua" always_nxdomain
 local-zone: "med24.click" always_nxdomain
 local-zone: "gur-official.com.ua" always_nxdomain
-local-zone: "https://cig-poshta.in.ua" always_nxdomain
+local-zone: "bookstore.kiev.ua" always_nxdomain

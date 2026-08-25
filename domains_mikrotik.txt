@@ -60001,4 +60001,4 @@
 0.0.0.0 medbook.org.ua
 0.0.0.0 med24.click
 0.0.0.0 gur-official.com.ua
-0.0.0.0 https://cig-poshta.in.ua
+0.0.0.0 bookstore.kiev.ua
