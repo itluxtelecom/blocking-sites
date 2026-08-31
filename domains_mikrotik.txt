@@ -65346,7 +65346,6 @@
 0.0.0.0 fav365-casino.com
 0.0.0.0 fav365ua.kh.ua
 0.0.0.0 fv365ua.com
-
 0.0.0.0 18-casinos.com.ua
 0.0.0.0 18-casinos.net.ua
 0.0.0.0 18-casinos.org.ua

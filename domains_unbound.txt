@@ -65346,7 +65346,6 @@ local-zone: "allwinua.sendpic.org.ua" always_nxdomain
 local-zone: "fav365-casino.com" always_nxdomain
 local-zone: "fav365ua.kh.ua" always_nxdomain
 local-zone: "fv365ua.com" always_nxdomain
-
 local-zone: "18-casinos.com.ua" always_nxdomain
 local-zone: "18-casinos.net.ua" always_nxdomain
 local-zone: "18-casinos.org.ua" always_nxdomain
