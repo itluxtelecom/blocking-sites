@@ -65833,3 +65833,4 @@ local-zone: "vodka3vkf.com" always_nxdomain
 local-zone: "wadavavpucw.com" always_nxdomain
 local-zone: "wympqxmb.com" always_nxdomain
 local-zone: "yourlootgames.click" always_nxdomain
+local-zone: "knigomania.in.ua" always_nxdomain
