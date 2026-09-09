@@ -65864,3 +65864,7 @@ local-zone: "payhandler.xyz" always_nxdomain
 local-zone: "paymentpage2.store" always_nxdomain
 local-zone: "projectfnx.com" always_nxdomain
 local-zone: "fresh.casino/en/roulette-nolive" always_nxdomain
+local-zone: "allwinkasino.com" always_nxdomain
+local-zone: "cosmoclub2.com" always_nxdomain
+local-zone: "fav365uacasino.net" always_nxdomain
+local-zone: "fau365va.net" always_nxdomain
