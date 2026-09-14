@@ -66061,3 +66061,8 @@ local-zone: "allwin.allwincasino.dn.ua" always_nxdomain
 local-zone: "allwin.casino-allwin.org.ua" always_nxdomain
 local-zone: "allwin.allwinua.kharkiv.ua" always_nxdomain
 local-zone: "favbetgame.com.ua" always_nxdomain
+local-zone: "keksik.me" always_nxdomain
+local-zone: "sexkievi.net" always_nxdomain
+local-zone: "prostitutkikieva.biz" always_nxdomain
+local-zone: "relaxkiev.vip" always_nxdomain
+local-zone: "kyivputana.com" always_nxdomain

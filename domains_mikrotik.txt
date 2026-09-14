@@ -66061,3 +66061,8 @@
 0.0.0.0 allwin.casino-allwin.org.ua
 0.0.0.0 allwin.allwinua.kharkiv.ua
 0.0.0.0 favbetgame.com.ua
+0.0.0.0 keksik.me
+0.0.0.0 sexkievi.net
+0.0.0.0 prostitutkikieva.biz
+0.0.0.0 relaxkiev.vip
+0.0.0.0 kyivputana.com
