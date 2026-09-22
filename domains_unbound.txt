@@ -66116,3 +66116,4 @@ local-zone: "games.casino.com" always_nxdomain
 local-zone: "start.johnbit.net" always_nxdomain
 local-zone: "caslink.site" always_nxdomain
 local-zone: "faithcrimes.com" always_nxdomain
+local-zone: "www.kononovich.org" always_nxdomain
