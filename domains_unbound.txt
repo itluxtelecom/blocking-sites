@@ -69443,3 +69443,14 @@ local-zone: "webkatalog2.kiev.ua" always_nxdomain
 local-zone: "za.com" always_nxdomain
 local-zone: "zanos55.casino" always_nxdomain
 local-zone: "zhks.com.ua" always_nxdomain
+local-zone: "tvigo.club" always_nxdomain
+local-zone: "zona.li" always_nxdomain
+local-zone: "kinozapas.io" always_nxdomain
+local-zone: "tvbox-baraholka.ru" always_nxdomain
+local-zone: "seasonvar.gg" always_nxdomain
+local-zone: "hdrezka.page" always_nxdomain
+local-zone: "kinogo.bingo" always_nxdomain
+local-zone: "kin.tartugi.info" always_nxdomain
+local-zone: "pidruchnyk.com.ua" always_nxdomain
+local-zone: "znayshov.com" always_nxdomain
+local-zone: "uroky.com.ua" always_nxdomain
