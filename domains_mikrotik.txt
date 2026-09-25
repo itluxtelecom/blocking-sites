@@ -69337,3 +69337,7 @@
 0.0.0.0 www.top100bookmakers.com
 0.0.0.0 www.vipbet100.com
 0.0.0.0 nenka.info
+0.0.0.0 bloknot-donetsk.ru
+0.0.0.0 bloknot-odessa.ru
+0.0.0.0 bloknot-zaporozhie.ru
+0.0.0.0 bloknot-lugansk.ru
