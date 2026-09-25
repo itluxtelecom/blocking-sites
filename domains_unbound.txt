@@ -65283,7 +65283,6 @@ local-zone: "tds.nexii.site" always_nxdomain
 local-zone: "allwinpartners.com" always_nxdomain
 local-zone: "tds.allwinpartners.com" always_nxdomain
 local-zone: "topcassinisonlines2022.com" always_nxdomain
-local-zone: "tinyurl.com" always_nxdomain
 local-zone: "viewzen.uk" always_nxdomain
 local-zone: "paymentspage2.com" always_nxdomain
 local-zone: "safe-pays.io" always_nxdomain

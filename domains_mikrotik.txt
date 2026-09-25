@@ -65283,7 +65283,6 @@
 0.0.0.0 allwinpartners.com
 0.0.0.0 tds.allwinpartners.com
 0.0.0.0 topcassinisonlines2022.com
-0.0.0.0 tinyurl.com
 0.0.0.0 viewzen.uk
 0.0.0.0 paymentspage2.com
 0.0.0.0 safe-pays.io
