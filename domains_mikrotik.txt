@@ -69341,3 +69341,10 @@
 0.0.0.0 bloknot-odessa.ru
 0.0.0.0 bloknot-zaporozhie.ru
 0.0.0.0 bloknot-lugansk.ru
+0.0.0.0 ru.spt9-66.com.ua
+0.0.0.0 pshenicna1.shop
+0.0.0.0 alkoshop-drinks.net
+0.0.0.0 vip-alco-drink.com
+0.0.0.0 tetraland.shop
+0.0.0.0 alcooptglobal.com.ua
+0.0.0.0 okovyta-shop.com

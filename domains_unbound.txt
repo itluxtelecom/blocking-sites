@@ -69341,3 +69341,10 @@ local-zone: "bloknot-donetsk.ru" always_nxdomain
 local-zone: "bloknot-odessa.ru" always_nxdomain
 local-zone: "bloknot-zaporozhie.ru" always_nxdomain
 local-zone: "bloknot-lugansk.ru" always_nxdomain
+local-zone: "ru.spt9-66.com.ua" always_nxdomain
+local-zone: "pshenicna1.shop" always_nxdomain
+local-zone: "alkoshop-drinks.net" always_nxdomain
+local-zone: "vip-alco-drink.com" always_nxdomain
+local-zone: "tetraland.shop" always_nxdomain
+local-zone: "alcooptglobal.com.ua" always_nxdomain
+local-zone: "okovyta-shop.com" always_nxdomain
