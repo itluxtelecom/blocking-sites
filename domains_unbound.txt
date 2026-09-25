@@ -69336,3 +69336,4 @@ local-zone: "viphouse-ua.com" always_nxdomain
 local-zone: "wilder18.win" always_nxdomain
 local-zone: "www.top100bookmakers.com" always_nxdomain
 local-zone: "www.vipbet100.com" always_nxdomain
+local-zone: "nenka.info" always_nxdomain
