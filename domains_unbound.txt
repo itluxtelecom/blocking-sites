@@ -69398,7 +69398,6 @@ local-zone: "casino-allwin.ck.ua" always_nxdomain
 local-zone: "casino-allwin.org.ua" always_nxdomain
 local-zone: "casino-pp.net" always_nxdomain
 local-zone: "cn.com" always_nxdomain
-local-zone: "co.ua" always_nxdomain
 local-zone: "com.de" always_nxdomain
 local-zone: "equip.com.ua" always_nxdomain
 local-zone: "ethcasino.casa" always_nxdomain
