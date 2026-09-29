@@ -69456,3 +69456,5 @@
 0.0.0.0 kadastrova-karta.com.ua
 0.0.0.0 kadastr.com.ua
 0.0.0.0 nvukraine.com
+0.0.0.0 knygarium.com.ua
+0.0.0.0 boobook.com.ua
