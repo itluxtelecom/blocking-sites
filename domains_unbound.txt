@@ -69454,3 +69454,5 @@ local-zone: "pidruchnyk.com.ua" always_nxdomain
 local-zone: "znayshov.com" always_nxdomain
 local-zone: "uroky.com.ua" always_nxdomain
 local-zone: "sixthwork.mypi.co" always_nxdomain
+local-zone: "kadastrova-karta.com.ua" always_nxdomain
+local-zone: "kadastr.com.ua" always_nxdomain
