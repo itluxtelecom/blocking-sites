@@ -69453,3 +69453,4 @@
 0.0.0.0 pidruchnyk.com.ua
 0.0.0.0 znayshov.com
 0.0.0.0 uroky.com.ua
+0.0.0.0 sixthwork.mypi.co

@@ -69453,3 +69453,4 @@ local-zone: "kin.tartugi.info" always_nxdomain
 local-zone: "pidruchnyk.com.ua" always_nxdomain
 local-zone: "znayshov.com" always_nxdomain
 local-zone: "uroky.com.ua" always_nxdomain
+local-zone: "sixthwork.mypi.co" always_nxdomain
