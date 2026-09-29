@@ -69455,3 +69455,4 @@ local-zone: "uroky.com.ua" always_nxdomain
 local-zone: "sixthwork.mypi.co" always_nxdomain
 local-zone: "kadastrova-karta.com.ua" always_nxdomain
 local-zone: "kadastr.com.ua" always_nxdomain
+local-zone: "nvukraine.com" always_nxdomain
