@@ -69458,3 +69458,6 @@ local-zone: "kadastr.com.ua" always_nxdomain
 local-zone: "nvukraine.com" always_nxdomain
 local-zone: "knygarium.com.ua" always_nxdomain
 local-zone: "boobook.com.ua" always_nxdomain
+local-zone: "lukkly21.com" always_nxdomain
+local-zone: "83192-tr.xyz" always_nxdomain
+local-zone: "brentos.site" always_nxdomain

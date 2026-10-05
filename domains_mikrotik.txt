@@ -69458,3 +69458,6 @@
 0.0.0.0 nvukraine.com
 0.0.0.0 knygarium.com.ua
 0.0.0.0 boobook.com.ua
+0.0.0.0 lukkly21.com
+0.0.0.0 83192-tr.xyz
+0.0.0.0 brentos.site
