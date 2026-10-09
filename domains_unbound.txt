@@ -69393,12 +69393,9 @@ local-zone: "bet20.com" always_nxdomain
 local-zone: "bet2fun.org" always_nxdomain
 local-zone: "betya.com" always_nxdomain
 local-zone: "boocasino.com" always_nxdomain
-local-zone: "br.com" always_nxdomain
 local-zone: "casino-allwin.ck.ua" always_nxdomain
 local-zone: "casino-allwin.org.ua" always_nxdomain
 local-zone: "casino-pp.net" always_nxdomain
-local-zone: "cn.com" always_nxdomain
-local-zone: "com.de" always_nxdomain
 local-zone: "equip.com.ua" always_nxdomain
 local-zone: "ethcasino.casa" always_nxdomain
 local-zone: "fav365-casino.kh.ua" always_nxdomain
@@ -69419,7 +69416,6 @@ local-zone: "minibet.games" always_nxdomain
 local-zone: "mirpokera.com" always_nxdomain
 local-zone: "mls.in.ua" always_nxdomain
 local-zone: "obagi.kiev.ua" always_nxdomain
-local-zone: "pages.dev" always_nxdomain
 local-zone: "play800.casino" always_nxdomain
 local-zone: "qbet123.com" always_nxdomain
 local-zone: "revolutionsbowl.com" always_nxdomain
@@ -69465,9 +69461,6 @@ local-zone: "gizbo-casino23.co" always_nxdomain
 local-zone: "frosty.bot" always_nxdomain
 local-zone: "orsven.store" always_nxdomain
 local-zone: "allwinua.casino" always_nxdomain
-local-zone: "app.777.ua" always_nxdomain
-local-zone: "app.betking.com.ua" always_nxdomain
-local-zone: "app.bitcoinplay.gg" always_nxdomain
 local-zone: "bc88.live" always_nxdomain
 local-zone: "betking-play.com.ua" always_nxdomain
 local-zone: "betking.fun" always_nxdomain

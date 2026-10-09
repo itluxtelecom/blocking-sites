@@ -69393,12 +69393,9 @@
 0.0.0.0 bet2fun.org
 0.0.0.0 betya.com
 0.0.0.0 boocasino.com
-0.0.0.0 br.com
 0.0.0.0 casino-allwin.ck.ua
 0.0.0.0 casino-allwin.org.ua
 0.0.0.0 casino-pp.net
-0.0.0.0 cn.com
-0.0.0.0 com.de
 0.0.0.0 equip.com.ua
 0.0.0.0 ethcasino.casa
 0.0.0.0 fav365-casino.kh.ua
@@ -69419,7 +69416,6 @@
 0.0.0.0 mirpokera.com
 0.0.0.0 mls.in.ua
 0.0.0.0 obagi.kiev.ua
-0.0.0.0 pages.dev
 0.0.0.0 play800.casino
 0.0.0.0 qbet123.com
 0.0.0.0 revolutionsbowl.com
@@ -69465,9 +69461,6 @@
 0.0.0.0 frosty.bot
 0.0.0.0 orsven.store
 0.0.0.0 allwinua.casino
-0.0.0.0 app.777.ua
-0.0.0.0 app.betking.com.ua
-0.0.0.0 app.bitcoinplay.gg
 0.0.0.0 bc88.live
 0.0.0.0 betking-play.com.ua
 0.0.0.0 betking.fun
