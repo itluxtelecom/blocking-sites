@@ -69742,3 +69742,4 @@
 0.0.0.0 beef-casino33.com
 0.0.0.0 allwiin.com
 0.0.0.0 one-vv4012.com
+0.0.0.0 yarreg.ru

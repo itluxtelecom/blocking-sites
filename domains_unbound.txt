@@ -69742,3 +69742,4 @@ local-zone: "one-vv5426.com" always_nxdomain
 local-zone: "beef-casino33.com" always_nxdomain
 local-zone: "allwiin.com" always_nxdomain
 local-zone: "one-vv4012.com" always_nxdomain
+local-zone: "yarreg.ru" always_nxdomain
