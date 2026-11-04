@@ -69755,3 +69755,7 @@ local-zone: "mega-shara.online" always_nxdomain
 local-zone: "alcomarket.shop" always_nxdomain
 local-zone: "alko-korobka.net.ua" always_nxdomain
 local-zone: "alcotraffik.org.ua" always_nxdomain
+local-zone: "96.62.224.135" always_nxdomain
+local-zone: "213.230.78.234" always_nxdomain
+local-zone: "185.189.246.72" always_nxdomain
+local-zone: "185.189.247.182" always_nxdomain
