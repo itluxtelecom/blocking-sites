@@ -69750,3 +69750,8 @@
 0.0.0.0 lukkly19.com
 0.0.0.0 lukkly32.com
 0.0.0.0 s-k.by
+0.0.0.0 smokeshop.biz.ua
+0.0.0.0 mega-shara.online
+0.0.0.0 alcomarket.shop
+0.0.0.0 alko-korobka.net.ua
+0.0.0.0 alcotraffik.org.ua

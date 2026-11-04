@@ -69750,3 +69750,8 @@ local-zone: "lukkly18.com" always_nxdomain
 local-zone: "lukkly19.com" always_nxdomain
 local-zone: "lukkly32.com" always_nxdomain
 local-zone: "s-k.by" always_nxdomain
+local-zone: "smokeshop.biz.ua" always_nxdomain
+local-zone: "mega-shara.online" always_nxdomain
+local-zone: "alcomarket.shop" always_nxdomain
+local-zone: "alko-korobka.net.ua" always_nxdomain
+local-zone: "alcotraffik.org.ua" always_nxdomain
