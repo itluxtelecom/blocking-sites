@@ -69896,3 +69896,12 @@ local-zone: "favbet.dn.ua" always_nxdomain
 local-zone: "kbs.kiev.ua" always_nxdomain
 local-zone: "kourt.in.ua" always_nxdomain
 local-zone: "svitkavi.com.ua" always_nxdomain
+local-zone: "gizbocasino158.com" always_nxdomain
+local-zone: "tuzconnect.xyz" always_nxdomain
+local-zone: "vavada4xss.com" always_nxdomain
+local-zone: "slotclub16.pro" always_nxdomain
+local-zone: "lex-casino1029.com" always_nxdomain
+local-zone: "elslot-luck.com/uk" always_nxdomain
+local-zone: "boom-x8.casino" always_nxdomain
+local-zone: "turbo-casino108.gg" always_nxdomain
+local-zone: "24-jb.live" always_nxdomain
