@@ -69812,3 +69812,6 @@ local-zone: "fnxp2p.com" always_nxdomain
 local-zone: "upset-premiums-start.com" always_nxdomain
 local-zone: "zormavi.com" always_nxdomain
 local-zone: "silvantoq.site" always_nxdomain
+local-zone: "hbrstore.site" always_nxdomain
+local-zone: "akonit.net" always_nxdomain
+local-zone: "bookshop.in.ua" always_nxdomain
