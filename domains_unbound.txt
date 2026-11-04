@@ -69749,3 +69749,4 @@ local-zone: "lukkly.com" always_nxdomain
 local-zone: "lukkly18.com" always_nxdomain
 local-zone: "lukkly19.com" always_nxdomain
 local-zone: "lukkly32.com" always_nxdomain
+local-zone: "s-k.by" always_nxdomain
