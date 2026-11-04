@@ -69815,3 +69815,12 @@ local-zone: "silvantoq.site" always_nxdomain
 local-zone: "hbrstore.site" always_nxdomain
 local-zone: "akonit.net" always_nxdomain
 local-zone: "bookshop.in.ua" always_nxdomain
+local-zone: "thepoker-bets.com" always_nxdomain
+local-zone: "wilder21.win" always_nxdomain
+local-zone: "co-insgame.com" always_nxdomain
+local-zone: "luckycoin788.live" always_nxdomain
+local-zone: "your-topwin.top" always_nxdomain
+local-zone: "jb-24.top" always_nxdomain
+local-zone: "top-match1.one" always_nxdomain
+local-zone: "parikbet24.net" always_nxdomain
+local-zone: "start.jb-24.top" always_nxdomain
