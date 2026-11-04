@@ -70258,3 +70258,4 @@ local-zone: "vapehub.shop" always_nxdomain
 local-zone: "myvape.com.ua" always_nxdomain
 local-zone: "chaser.com.ua" always_nxdomain
 local-zone: "kolbix.com" always_nxdomain
+local-zone: "76.ru" always_nxdomain
